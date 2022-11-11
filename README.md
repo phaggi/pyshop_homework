@@ -1,0 +1,1 @@
+HomeWork for https://jl.pyshop.ru/tasks/python-dev/
